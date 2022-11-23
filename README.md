@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **Guidance on certifications that will make me more employable!**
 
-- 👨‍💻 My project page it available at [https://bhunter87.github.io/ProjectPage/](https://bhunter87.github.io/ProjectPage/)
+- 👨‍💻 My project page is available at [https://bhunter87.github.io/ProjectPage/](https://bhunter87.github.io/ProjectPage/)
 
 - 💬 Ask me about **react, javascript, C#, and python**
 
